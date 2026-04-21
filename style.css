@@ -1,7 +1,7 @@
 body {
   text-align: center;
   font-family: Helvetica, sans-serif;
-  background-image: url(/sky.png);
+  background-image: url(/assets/bg.png);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
